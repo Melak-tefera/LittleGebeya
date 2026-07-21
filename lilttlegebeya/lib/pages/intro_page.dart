@@ -12,6 +12,7 @@ const IntroPage({super.key});
         child: Padding(
           padding: const EdgeInsets.symmetric(horizontal: 25),
           child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Padding(
                 padding: const EdgeInsets.all(25.0),
