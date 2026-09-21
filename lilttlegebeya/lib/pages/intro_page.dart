@@ -15,7 +15,7 @@ const IntroPage({super.key});
             mainAxisAlignment: MainAxisAlignment.center,
             children: [
               Padding(
-                padding: const EdgeInsets.all(24.0),
+                padding: const EdgeInsets.all(25.0),
                 //logo
                 child: Image.asset("lib/photos/nikelogo.png", height: 240, ),
               ),
